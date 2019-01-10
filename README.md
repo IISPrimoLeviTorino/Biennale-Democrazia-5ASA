@@ -14,7 +14,7 @@
 - Solitudine di persone consapevoli di morire a breve.
 
 #### Hanafi
-- sito/video "Connection".
+- video <a href="https://youtu.be/iJUM11goXAU">Connection</a>.
 - Isolamento legato all'incomprensione.
 
 #### Soitu
