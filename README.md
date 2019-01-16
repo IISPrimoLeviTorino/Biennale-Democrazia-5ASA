@@ -58,6 +58,8 @@
 
 - Essere straniero (lingua, ideali, comportamenti, ...)
 
+![ScreenShot](lavagna.jpg)
+
 ## Video
 
 - Spiegazione visiva (No testo. Max 3-4 titoli).
