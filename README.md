@@ -10,4 +10,4 @@ Raccolta materiali progetto biennale democrazia.
 - <a href="https://github.com/IISPrimoLeviTorino/Biennale-Democrazia-5ASA/blob/master/2%C2%B0%20Incontro/Resoconto.md">2° Incontro (18/01/2019)</a>
 
 ### Risorse:
-- <a href="https://github.com/IISPrimoLeviTorino/Biennale-Democrazia-5ASA/tree/master/Risorse%20Arte">Arte (Prof.)</a>
+- <a href="https://github.com/IISPrimoLeviTorino/Biennale-Democrazia-5ASA/blob/master/Risorse%20Arte/README.md">Arte (Prof.)</a>
