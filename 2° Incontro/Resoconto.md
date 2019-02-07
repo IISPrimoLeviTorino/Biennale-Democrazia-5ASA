@@ -25,6 +25,8 @@
 15. Ti sei mai confidato con qualcuno a riguardo?
 16. Un gesto o una parola che descriva la solitudine.
 
+![ScreenShot](Domande.jpg)
+
 ## Sceneggiatura
 - Differenza -> sfiducia
 - Solitudine -> isolamento
@@ -36,6 +38,8 @@
   - Non ci piacciono
   - Bisogna accettersi per essere sereni con glia altri
 
+![ScreenShot](Sceneggiatura.jpg)
+
 ## Arte/Solitudine
 - Ragazzo con cuffie sul bus guarda fuori dal finestrino immerso nel suo mondo
 - Il tempo passa ma non se ne interessa
@@ -46,6 +50,8 @@
 - Incontra una ragazza popolare in un bar (popolare solo in apparenza)
 - Scende dal bus e trova un povero bisognoso di aiuto e si mette a parlare con lui offrendogli del cibo
 - Tentativo contatto corporeo [con la ragazza spero...]
+
+![ScreenShot](Solitudine.jpg)
 
 # Video
 - Interviste come aggancio al presente.
