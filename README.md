@@ -11,3 +11,6 @@ Raccolta materiali progetto biennale democrazia.
 
 ### Risorse:
 - <a href="https://github.com/IISPrimoLeviTorino/Biennale-Democrazia-5ASA/blob/master/Risorse%20Arte/README.md">Arte (Prof.)</a>
+
+## Prodotto finale
+[![](http://img.youtube.com/vi/0RIwIvZVKlI/0.jpg)](http://www.youtube.com/watch?v=0RIwIvZVKlI "Io Solo")
